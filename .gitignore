@@ -1,0 +1,51 @@
+target/
+
+.mvn/timing.properties
+
+#bin
+bin
+
+#libs
+libs
+
+#Settings
+.settings
+
+# Project
+.project
+
+# Classpath
+.classpath
+
+#.DS_Store
+.DS_Store
+
+
+# Logs
+logs
+
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+#IntelliJ Module files
+*.iml
+
+#IntelliJ directory config files
+.idea/
+
+#Maven generated files
+target/
+
+#Class Files
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
